@@ -1,0 +1,13 @@
+[{name:"Kajal",
+id: 1,
+city: "Pune"},
+{name:"Akshta",
+id: 2,
+city: "Pune"},
+{name:"Pallavi",
+id: 3,
+city: "Pune"},
+{name:"Sanika",
+id: 4,
+city: "Pune"}
+]
